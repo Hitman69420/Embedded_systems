@@ -111,6 +111,4 @@ To run the code on your Raspberry Pi Pico, ensure you have completed the setup s
 
 For training or modifying machine learning models, refer to the provided training model files (Trained Model.ipynb, model_training.ipynb) and use Google Colab for training purposes.
 
-## Watch the Video
 
-[Watch the project in action](#watch-the-project-in-action) by following the provided link.
