@@ -1,6 +1,6 @@
 # Image Classification on Raspberry Pico
 
-## Introduction
+## TEAM MEMBERS:
 - CB.EN.U4CSE21309 - DARNESHWAR S
 - CB.EN.U4CSE21344 - P.G.VIGNESH
 - CB.EN.U4CSE21349 - KEERTHANA S
