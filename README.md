@@ -1,4 +1,4 @@
-# Image Classification on Raspberry Pico
+# Low Power Hibernation on Raspberry Pico
 
 ## TEAM MEMBERS:
 - CB.EN.U4CSE21309 - DARNESHWAR S
